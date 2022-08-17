@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivarajpatil7733
-- 👀 I’m interested in BlockChain Development,Web3 
-- 🌱 I’m currently learning dApps,smart contract,,BlockChain Security,Writing Smart Contract using Solidity,React,Javascript,Node.js,web3.js,RESTAPi
+- 👀 I’m interested in BlockChain Development
+- 🌱 I’m currently learning Smart Contract using Solidity
 - 💞️ I’m looking to collaborate on BlockChain and Web3 development
 - 📫 How to reach me shivarajpatil7733@gmail.com
 
